@@ -89,6 +89,7 @@ The dataset consists of the following tables:
  ├── insert.sql        -- Data insertion
  ├── queries.sql       -- Business analysis queries
  ├── README.md         -- Project documentation
+ ├── data/             -- CSV files (orders, order_details, etc.)
  └── screenshots/      -- Query outputs and error screenshots
 ```
 
